@@ -74,11 +74,11 @@ This repository contains the **Phase A** implementation.
 
 First Terminal:
 
-# make test;./test -s -m -p 54321 -f save.txt <br>
+- make test;./test -s -m -p 54321 -f save.txt <br>
 
 Second Terminal:
 
-# ./test -m  -p 54321 -a 192.168.1.5 -f big.txt
+- ./test -m  -p 54321 -a 192.168.1.5 -f big.txt
 ---
 
 ## 📜 License
