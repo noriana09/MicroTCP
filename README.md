@@ -69,7 +69,15 @@ This repository contains the **Phase A** implementation.
 - **`microtcp_connect`**: Initiates a connection (client-side).
 - **`microtcp_accept`**: Accepts a connection (server-side).
 - **`microtcp_shutdown`**: Terminates the connection.
+---
+## Run Command
 
+To run the test run this command in the first terminal:
+
+make test;./test -s -m -p 54321 -f save.txt
+and this command in the second terminal:
+
+./test -m  -p 54321 -a 192.168.1.5 -f big.txt
 ---
 
 ## 📜 License
