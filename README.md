@@ -72,6 +72,8 @@ This repository contains the **Phase A** implementation.
 
 ---
 
-## 📊 Example Output
+## 📜 License
 
-### Bandwidth Test
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
