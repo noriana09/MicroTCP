@@ -72,12 +72,13 @@ This repository contains the **Phase A** implementation.
 ---
 ## Run Command
 
-To run the test run this command in the first terminal:
+First Terminal:
 
-make test;./test -s -m -p 54321 -f save.txt
-and this command in the second terminal:
+# make test;./test -s -m -p 54321 -f save.txt <br>
 
-./test -m  -p 54321 -a 192.168.1.5 -f big.txt
+Second Terminal:
+
+# ./test -m  -p 54321 -a 192.168.1.5 -f big.txt
 ---
 
 ## 📜 License
